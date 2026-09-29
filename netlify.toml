@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/download"
+  to = "/index.html"
+  status = 302
+  force = true
